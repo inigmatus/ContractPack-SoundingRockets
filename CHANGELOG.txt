@@ -1,0 +1,4 @@
+CHANGELOG:
+
+Sounding Rockets 1.0
+- initial release!
