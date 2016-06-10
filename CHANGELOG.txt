@@ -1,4 +1,13 @@
 CHANGELOG:
 
+6/10/16 - Sounding Rockets 1.0.3
+- contracts will now complete when USI sounding rocket motors are not the root part.
+
+5/31/16 - Sounding Rockets 1.0.2
+- version fix for CKAN
+
+5/31/16 - Sounding Rockets 1.0.1
+- fixed AVC
+
 5/29/16 - Sounding Rockets 1.0
 - initial release!
