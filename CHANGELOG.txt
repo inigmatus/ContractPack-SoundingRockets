@@ -1,9 +1,10 @@
 CHANGELOG:
 
- - Sounding Rockets 1.1
+8/22/16 - Sounding Rockets 1.1
  - Now compatible with Contract Configurator 1.17 and higher
  - Requires Contract Configurator 1.17 or higher
  - removed launch stick requirement from all contracts. Now only requires USI Sounding Rockets avionics package and a USI motor or sepratron.
+ - corrected AVC reference.
 
 6/10/16 - Sounding Rockets 1.0.3
 - contracts will now complete when USI sounding rocket motors are not the root part.
