@@ -1,5 +1,8 @@
 CHANGELOG:
 
+8/23/16 - Sounding Rockets 1.2
+ - fixed bug prevengint 70k sounding rocket contract from completing.
+
 8/22/16 - Sounding Rockets 1.1
  - Now compatible with Contract Configurator 1.17 and higher
  - Requires Contract Configurator 1.17 or higher
